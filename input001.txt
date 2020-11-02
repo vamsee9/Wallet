@@ -1,0 +1,21 @@
+20
+payAmount 1000
+checkBalance
+addAmount 100
+payAmount 1000
+checkBalance
+addAmount 100
+payAmount 25
+payAmount 35
+checkBalance
+payAmount 30
+addAmount 300
+payAmount 270
+checkBalance
+payAmount 270
+checkBalance
+payAmount 1000
+checkBalance
+addAmount 100
+payAmount 25
+payAmount 35
